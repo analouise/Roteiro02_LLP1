@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1576444856 source:/home/louise/Documentos/P2/LP1/Derzu_R02/Q2/main.cpp
+	<iostream>
+	"include/Endereco.h"
+
+1576444928 /home/louise/Documentos/P2/LP1/Derzu_R02/Q2/include/Endereco.h
+	<string>
+
